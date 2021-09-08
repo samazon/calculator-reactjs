@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <h1>Calculator React JS</h1>
-
       <Calculator />
     </div>
   );
